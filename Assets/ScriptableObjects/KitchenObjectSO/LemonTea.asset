@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8387d56930739045ac844c5cf07f80d, type: 3}
+  m_Name: LemonTea
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6040136016807865427, guid: ae1584d2ea9366b44b37e2cd2732ffee, type: 3}
+  sprite: {fileID: 21300000, guid: f011f5c21b4087947bbabb95af7268c9, type: 3}
+  objectName: "\u0427\u0430\u0439 \u0441 \u043B\u0438\u043C\u043E\u043D\u043E\u043C"

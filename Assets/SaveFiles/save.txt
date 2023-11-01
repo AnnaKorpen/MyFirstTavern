@@ -1,0 +1,1 @@
+{"level":9,"playerMoney":6200,"playerReputation":600,"playerPosition":{"x":6.040421485900879,"y":0.0,"z":3.1829161643981935},"producersInAction":5,"employees":[true,true]}

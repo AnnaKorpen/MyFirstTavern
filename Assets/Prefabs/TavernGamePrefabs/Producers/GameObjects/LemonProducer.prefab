@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3360561289182752459
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1845233882666351165, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233882666351165, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883045583888, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883045583888, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249387, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_Name
+      value: LemonProducer
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249388, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: kitchenObjectProducerVisuals.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249388, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: kitchenObjectProducerVisuals.Array.data[0]
+      value: 
+      objectReference: {fileID: 3885152129855828360, guid: 19945ab06f6255849b55891a76ebe5a7, type: 3}
+    - target: {fileID: 1845233883955249388, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: kitchenObjectProducerVisuals.Array.data[1]
+      value: 
+      objectReference: {fileID: 473544743999724775, guid: 151aa54b92540434bae7fe719ce796b7, type: 3}
+    - target: {fileID: 1845233883955249388, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: kitchenObjectProducerVisuals.Array.data[2]
+      value: 
+      objectReference: {fileID: 1623057503144926468, guid: b393eda0b5f812441b1bbcf2e3e4dcd3, type: 3}
+    - target: {fileID: 1845233883955249389, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: possibleRecipesList.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9582edaf796901b479ad25901761da4c, type: 2}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1845233883955249391, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ff7cf912b88e7245b29fd35b8efafa7, type: 3}
